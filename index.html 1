@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saraswati's Restaurant</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>Welcome to Saraswati's Restaurant</h1>
+            <p>Experience the finest dining in Udaipur</p>
+            <a href="menu.html" class="btn">Explore Menu</a>
+        </div>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>About Our Restaurant</h2>
+            <p>At Saraswati's Restaurant, we blend traditional flavors with modern culinary techniques to bring you an unforgettable dining experience. Our chefs use the freshest ingredients to craft dishes that are both delicious and visually stunning.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Saraswati's Restaurant, Udaipur. All rights reserved.</p>
+    </footer>
+</body>
+</html>
